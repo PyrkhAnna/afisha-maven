@@ -1,0 +1,328 @@
+[INFO ] 2016-11-19 14:20:53.521 [main] Afisha - New afisha was created
+[INFO ] 2016-11-19 14:20:53.548 [main] Afisha - New event was added to afisha 
+[INFO ] 2016-11-19 14:20:53.552 [main] Afisha - New event was added to afisha 
+[INFO ] 2016-11-19 14:20:53.553 [main] Afisha - New event was added to afisha 
+[INFO ] 2016-11-20 18:35:31.602 [main] ReadFile - Afisha is read from file
+[INFO ] 2016-11-20 18:35:31.672 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 18:35:31.682 [main] Event - New event was created
+[INFO ] 2016-11-20 18:35:31.682 [main] Film - New film was created
+[INFO ] 2016-11-20 18:35:31.682 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 18:35:31.692 [main] Event - New event was created
+[INFO ] 2016-11-20 18:35:31.692 [main] Opera - New opera was created
+[INFO ] 2016-11-20 18:35:31.692 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 18:35:31.692 [main] Event - New event was created
+[INFO ] 2016-11-20 18:35:31.692 [main] Exhibition - New exhibition was created
+[INFO ] 2016-11-20 18:35:31.692 [main] Afisha - New event is added to afisha 
+[DEBUG] 2016-11-20 18:35:31.692 [main] FileAfishaVisitor - java.io.FileNotFoundException: \files\afisha.txt (Системе не удается найти указанный путь)
+[INFO ] 2016-11-20 18:35:31.692 [main] FileAfishaVisitor - Afisha is displayed in file
+[INFO ] 2016-11-20 18:35:31.754 [main] FileAfishaVisitor - Afisha is displayed in file for certain day
+[INFO ] 2016-11-20 18:35:31.754 [main] FileAfishaVisitor - Afisha is displayed in file for certain period of time
+[INFO ] 2016-11-20 18:35:31.764 [main] ConsoleAfishaVisitor - Afisha is displayed on console
+[INFO ] 2016-11-20 18:35:31.764 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain day
+[INFO ] 2016-11-20 18:35:31.764 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain period of time
+[INFO ] 2016-11-20 18:45:06.401 [main] ReadFile - Afisha is read from file
+[INFO ] 2016-11-20 18:45:06.411 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 18:45:06.411 [main] Event - New event was created
+[INFO ] 2016-11-20 18:45:06.411 [main] Film - New film was created
+[INFO ] 2016-11-20 18:45:06.421 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 18:45:06.421 [main] Event - New event was created
+[INFO ] 2016-11-20 18:45:06.421 [main] Opera - New opera was created
+[INFO ] 2016-11-20 18:45:06.421 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 18:45:06.421 [main] Event - New event was created
+[INFO ] 2016-11-20 18:45:06.431 [main] Exhibition - New exhibition was created
+[INFO ] 2016-11-20 18:45:06.431 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 18:45:06.471 [main] FileAfishaVisitor - Afisha is wroten in file
+[INFO ] 2016-11-20 18:45:06.481 [main] FileAfishaVisitor - Afisha is wroten in file for certain day
+[INFO ] 2016-11-20 18:45:06.481 [main] FileAfishaVisitor - Afisha is wroten in file for certain period of time
+[INFO ] 2016-11-20 18:45:06.481 [main] ConsoleAfishaVisitor - Afisha is displayed on console
+[INFO ] 2016-11-20 18:45:06.481 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain day
+[INFO ] 2016-11-20 18:45:06.481 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain period of time
+[INFO ] 2016-11-20 19:58:48.097 [main] ReadFile - Afisha is read from file
+[INFO ] 2016-11-20 19:58:48.124 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 19:58:48.126 [main] Event - New event is created
+[INFO ] 2016-11-20 19:58:48.127 [main] Film - New film is created
+[INFO ] 2016-11-20 19:58:48.135 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 19:58:48.136 [main] Event - New event is created
+[INFO ] 2016-11-20 19:58:48.136 [main] Opera - New opera is created
+[INFO ] 2016-11-20 19:58:48.139 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 19:58:48.140 [main] Event - New event is created
+[INFO ] 2016-11-20 19:58:48.141 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 19:58:48.141 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 19:58:48.190 [main] FileAfishaVisitor - Afisha is wroten in file
+[INFO ] 2016-11-20 19:58:48.192 [main] FileAfishaVisitor - Afisha is wroten in file for certain day
+[INFO ] 2016-11-20 19:58:48.193 [main] FileAfishaVisitor - Afisha is wroten in file for certain period of time
+[INFO ] 2016-11-20 19:58:48.213 [main] ConsoleAfishaVisitor - Afisha is displayed on console
+[INFO ] 2016-11-20 19:58:48.214 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain day
+[INFO ] 2016-11-20 19:58:48.214 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain period of time
+[INFO ] 2016-11-20 20:32:36.394 [main] Event - New event is created
+[INFO ] 2016-11-20 20:32:36.422 [main] Film - New film is created
+[INFO ] 2016-11-20 20:32:36.435 [main] Event - New event is created
+[INFO ] 2016-11-20 20:32:36.435 [main] Opera - New opera is created
+[INFO ] 2016-11-20 20:32:36.440 [main] Event - New event is created
+[INFO ] 2016-11-20 20:32:36.440 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 20:39:14.232 [main] Event - New event is created
+[INFO ] 2016-11-20 20:39:14.239 [main] Film - New film is created
+[INFO ] 2016-11-20 20:39:14.252 [main] Event - New event is created
+[INFO ] 2016-11-20 20:39:14.253 [main] Opera - New opera is created
+[INFO ] 2016-11-20 20:39:14.257 [main] Event - New event is created
+[INFO ] 2016-11-20 20:39:14.257 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 20:48:02.214 [main] Event - New event is created
+[INFO ] 2016-11-20 20:48:02.220 [main] Film - New film is created
+[INFO ] 2016-11-20 20:48:02.228 [main] Event - New event is created
+[INFO ] 2016-11-20 20:48:02.228 [main] Opera - New opera is created
+[INFO ] 2016-11-20 20:48:02.231 [main] Event - New event is created
+[INFO ] 2016-11-20 20:48:02.232 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 20:49:01.948 [main] Event - New event is created
+[INFO ] 2016-11-20 20:49:01.954 [main] Film - New film is created
+[INFO ] 2016-11-20 20:49:01.996 [main] Event - New event is created
+[INFO ] 2016-11-20 20:49:01.997 [main] Opera - New opera is created
+[INFO ] 2016-11-20 20:49:02.000 [main] Event - New event is created
+[INFO ] 2016-11-20 20:49:02.000 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 20:49:14.550 [main] Event - New event is created
+[INFO ] 2016-11-20 20:49:14.556 [main] Film - New film is created
+[INFO ] 2016-11-20 20:49:14.572 [main] Event - New event is created
+[INFO ] 2016-11-20 20:49:14.572 [main] Opera - New opera is created
+[INFO ] 2016-11-20 20:49:14.576 [main] Event - New event is created
+[INFO ] 2016-11-20 20:49:14.576 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 20:52:14.563 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 20:52:14.571 [main] Event - New event is created
+[INFO ] 2016-11-20 20:52:14.571 [main] Film - New film is created
+[INFO ] 2016-11-20 20:52:14.584 [main] Event - New event is created
+[INFO ] 2016-11-20 20:52:14.584 [main] Opera - New opera is created
+[INFO ] 2016-11-20 20:52:14.588 [main] Event - New event is created
+[INFO ] 2016-11-20 20:52:14.588 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 20:52:27.331 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 20:52:27.339 [main] Event - New event is created
+[INFO ] 2016-11-20 20:52:27.339 [main] Film - New film is created
+[INFO ] 2016-11-20 20:52:27.352 [main] Event - New event is created
+[INFO ] 2016-11-20 20:52:27.353 [main] Opera - New opera is created
+[INFO ] 2016-11-20 20:52:27.356 [main] Event - New event is created
+[INFO ] 2016-11-20 20:52:27.357 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 22:07:36.753 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 22:07:36.788 [main] Event - New event is created
+[INFO ] 2016-11-20 22:07:36.789 [main] Film - New film is created
+[INFO ] 2016-11-20 22:07:36.791 [main] Event - New event is created
+[INFO ] 2016-11-20 22:07:36.792 [main] Opera - New opera is created
+[INFO ] 2016-11-20 22:07:36.794 [main] Event - New event is created
+[INFO ] 2016-11-20 22:07:36.795 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 22:11:19.448 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 22:11:19.482 [main] Event - New event is created
+[INFO ] 2016-11-20 22:11:19.482 [main] Film - New film is created
+[INFO ] 2016-11-20 22:11:19.487 [main] Event - New event is created
+[INFO ] 2016-11-20 22:11:19.488 [main] Opera - New opera is created
+[INFO ] 2016-11-20 22:11:19.491 [main] Event - New event is created
+[INFO ] 2016-11-20 22:11:19.492 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 22:33:42.739 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 22:33:42.774 [main] Event - New event is created
+[INFO ] 2016-11-20 22:33:42.775 [main] Film - New film is created
+[INFO ] 2016-11-20 22:41:30.595 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 22:41:30.622 [main] Event - New event is created
+[INFO ] 2016-11-20 22:41:30.623 [main] Film - New film is created
+[INFO ] 2016-11-20 22:41:30.636 [main] Event - New event is created
+[INFO ] 2016-11-20 22:41:30.637 [main] Opera - New opera is created
+[INFO ] 2016-11-20 22:41:30.644 [main] Event - New event is created
+[INFO ] 2016-11-20 22:41:30.645 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 22:43:36.818 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 22:43:36.834 [main] Event - New event is created
+[INFO ] 2016-11-20 22:43:36.834 [main] Film - New film is created
+[INFO ] 2016-11-20 22:54:09.469 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 22:54:09.477 [main] Event - New event is created
+[INFO ] 2016-11-20 22:54:09.478 [main] Film - New film is created
+[INFO ] 2016-11-20 22:54:09.486 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 22:54:09.488 [main] Event - New event is created
+[INFO ] 2016-11-20 22:54:09.488 [main] Opera - New opera is created
+[INFO ] 2016-11-20 22:54:09.493 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 22:54:09.494 [main] Event - New event is created
+[INFO ] 2016-11-20 22:54:09.494 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 22:54:09.497 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 22:55:05.574 [main] Afisha - New afisha is created
+[INFO ] 2016-11-20 22:55:05.583 [main] Event - New event is created
+[INFO ] 2016-11-20 22:55:05.583 [main] Film - New film is created
+[INFO ] 2016-11-20 22:55:05.593 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 22:55:05.595 [main] Event - New event is created
+[INFO ] 2016-11-20 22:55:05.595 [main] Opera - New opera is created
+[INFO ] 2016-11-20 22:55:05.600 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-20 22:55:05.601 [main] Event - New event is created
+[INFO ] 2016-11-20 22:55:05.602 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-20 22:55:05.609 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-22 18:28:33.686 [main] ReadFile - Afisha is read from file
+[INFO ] 2016-11-22 18:28:33.726 [main] Afisha - New afisha is created
+[INFO ] 2016-11-22 18:28:33.728 [main] Event - New event is created
+[INFO ] 2016-11-22 18:28:33.729 [main] Film - New film is created
+[INFO ] 2016-11-22 18:28:33.779 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-22 18:28:33.780 [main] Event - New event is created
+[INFO ] 2016-11-22 18:28:33.781 [main] Opera - New opera is created
+[INFO ] 2016-11-22 18:28:33.784 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-22 18:28:33.785 [main] Event - New event is created
+[INFO ] 2016-11-22 18:28:33.786 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-22 18:28:33.786 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-22 18:28:33.839 [main] FileAfishaVisitor - Afisha is wroten in file
+[INFO ] 2016-11-22 18:28:33.841 [main] FileAfishaVisitor - Afisha is wroten in file for certain day
+[INFO ] 2016-11-22 18:28:33.842 [main] FileAfishaVisitor - Afisha is wroten in file for certain period of time
+[INFO ] 2016-11-22 18:28:33.844 [main] ConsoleAfishaVisitor - Afisha is displayed on console
+[INFO ] 2016-11-22 18:28:33.845 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain day
+[INFO ] 2016-11-22 18:28:33.846 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain period of time
+[INFO ] 2016-11-22 18:42:13.080 [main] ReadFile - Afisha is read from file
+[INFO ] 2016-11-22 18:42:13.090 [main] Afisha - New afisha is created
+[INFO ] 2016-11-22 18:42:13.092 [main] Event - New event is created
+[INFO ] 2016-11-22 18:42:13.092 [main] Film - New film is created
+[INFO ] 2016-11-22 18:42:13.099 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-22 18:42:13.100 [main] Event - New event is created
+[INFO ] 2016-11-22 18:42:13.101 [main] Opera - New opera is created
+[INFO ] 2016-11-22 18:42:13.103 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-22 18:42:13.104 [main] Event - New event is created
+[INFO ] 2016-11-22 18:42:13.104 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-22 18:42:13.105 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-22 18:42:13.116 [main] FileAfishaVisitor - Afisha is wroten in file
+[INFO ] 2016-11-22 18:42:13.117 [main] FileAfishaVisitor - Afisha is wroten in file for certain day
+[INFO ] 2016-11-22 18:42:13.117 [main] FileAfishaVisitor - Afisha is wroten in file for certain period of time
+[INFO ] 2016-11-22 18:42:13.117 [main] ConsoleAfishaVisitor - Afisha is displayed on console
+[INFO ] 2016-11-22 18:42:13.117 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain day
+[INFO ] 2016-11-22 18:42:13.117 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain period of time
+[INFO ] 2016-11-24 15:58:20.157 [main] FileAfishaReader - Afisha is read from file
+[INFO ] 2016-11-24 15:58:20.748 [main] Afisha - New afisha is created
+[INFO ] 2016-11-24 15:58:20.750 [main] Event - New event is created
+[INFO ] 2016-11-24 15:58:20.751 [main] Film - New film is created
+[INFO ] 2016-11-24 15:58:20.984 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-24 15:58:20.989 [main] Event - New event is created
+[INFO ] 2016-11-24 15:58:20.990 [main] Opera - New opera is created
+[INFO ] 2016-11-24 15:58:21.065 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-24 15:58:21.066 [main] Event - New event is created
+[INFO ] 2016-11-24 15:58:21.066 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-24 15:58:21.067 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-24 15:58:21.158 [main] FileAfishaVisitor - Afisha is wroten in file
+[INFO ] 2016-11-24 15:58:21.160 [main] FileAfishaVisitor - Afisha is wroten in file for certain day
+[INFO ] 2016-11-24 15:58:21.162 [main] FileAfishaVisitor - Afisha is wroten in file for certain period of time
+[INFO ] 2016-11-24 15:58:21.403 [main] ConsoleAfishaVisitor - Afisha is displayed on console
+[INFO ] 2016-11-24 15:58:21.405 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain day
+[INFO ] 2016-11-24 15:58:21.408 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain period of time
+[INFO ] 2016-11-24 21:10:17.864 [main] Event - New event is created
+[INFO ] 2016-11-24 21:10:17.911 [main] Film - New film is created
+[INFO ] 2016-11-24 21:11:28.792 [main] Event - New event is created
+[INFO ] 2016-11-24 21:11:28.799 [main] Film - New film is created
+[INFO ] 2016-11-24 21:11:28.875 [main] Event - New event is created
+[INFO ] 2016-11-24 21:11:28.876 [main] Opera - New opera is created
+[INFO ] 2016-11-24 21:11:28.879 [main] Event - New event is created
+[INFO ] 2016-11-24 21:11:28.879 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-24 21:11:28.881 [main] Event - New event is created
+[INFO ] 2016-11-24 21:11:28.882 [main] Opera - New opera is created
+[INFO ] 2016-11-24 21:19:04.516 [main] Event - New event is created
+[INFO ] 2016-11-24 21:19:04.522 [main] Film - New film is created
+[INFO ] 2016-11-24 21:19:04.540 [main] Event - New event is created
+[INFO ] 2016-11-24 21:19:04.541 [main] Opera - New opera is created
+[INFO ] 2016-11-24 21:19:04.545 [main] Event - New event is created
+[INFO ] 2016-11-24 21:19:04.545 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-24 21:19:04.547 [main] Event - New event is created
+[INFO ] 2016-11-24 21:19:04.548 [main] Opera - New opera is created
+[INFO ] 2016-11-24 21:28:30.161 [main] Afisha - New afisha is created
+[INFO ] 2016-11-24 21:28:30.169 [main] Event - New event is created
+[INFO ] 2016-11-24 21:28:30.169 [main] Film - New film is created
+[INFO ] 2016-11-24 21:28:30.180 [main] Event - New event is created
+[INFO ] 2016-11-24 21:28:30.182 [main] Opera - New opera is created
+[INFO ] 2016-11-24 21:28:30.187 [main] Event - New event is created
+[INFO ] 2016-11-24 21:28:30.187 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-24 21:28:30.191 [main] Event - New event is created
+[INFO ] 2016-11-24 21:28:30.191 [main] Opera - New opera is created
+[INFO ] 2016-11-24 21:30:05.603 [main] Afisha - New afisha is created
+[INFO ] 2016-11-24 21:30:05.632 [main] Event - New event is created
+[INFO ] 2016-11-24 21:30:05.632 [main] Film - New film is created
+[INFO ] 2016-11-24 21:30:05.641 [main] Event - New event is created
+[INFO ] 2016-11-24 21:30:05.641 [main] Opera - New opera is created
+[INFO ] 2016-11-24 21:30:05.644 [main] Event - New event is created
+[INFO ] 2016-11-24 21:30:05.644 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-24 21:30:05.648 [main] Event - New event is created
+[INFO ] 2016-11-24 21:30:05.649 [main] Opera - New opera is created
+[INFO ] 2016-11-25 00:42:10.010 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:42:10.032 [main] Event - New event is created
+[INFO ] 2016-11-25 00:42:10.033 [main] Film - New film is created
+[INFO ] 2016-11-25 00:42:10.094 [main] Event - New event is created
+[INFO ] 2016-11-25 00:42:10.095 [main] Opera - New opera is created
+[INFO ] 2016-11-25 00:42:10.108 [main] Event - New event is created
+[INFO ] 2016-11-25 00:42:10.109 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-25 00:42:10.112 [main] Event - New event is created
+[INFO ] 2016-11-25 00:42:10.112 [main] Opera - New opera is created
+[INFO ] 2016-11-25 00:46:56.487 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:46:56.518 [main] Event - New event is created
+[INFO ] 2016-11-25 00:46:56.519 [main] Film - New film is created
+[INFO ] 2016-11-25 00:46:56.529 [main] Event - New event is created
+[INFO ] 2016-11-25 00:46:56.530 [main] Opera - New opera is created
+[INFO ] 2016-11-25 00:46:56.534 [main] Event - New event is created
+[INFO ] 2016-11-25 00:46:56.535 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-25 00:46:56.542 [main] Event - New event is created
+[INFO ] 2016-11-25 00:46:56.542 [main] Opera - New opera is created
+[INFO ] 2016-11-25 00:51:11.977 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:51:11.988 [main] Event - New event is created
+[INFO ] 2016-11-25 00:51:11.988 [main] Film - New film is created
+[INFO ] 2016-11-25 00:53:59.455 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:55:41.154 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:55:41.166 [main] Event - New event is created
+[INFO ] 2016-11-25 00:55:41.166 [main] Film - New film is created
+[INFO ] 2016-11-25 00:55:52.332 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:57:16.578 [main] FileAfishaReader - Afisha is read from file
+[INFO ] 2016-11-25 00:57:16.587 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:57:16.589 [main] Event - New event is created
+[INFO ] 2016-11-25 00:57:16.589 [main] Film - New film is created
+[INFO ] 2016-11-25 00:57:16.595 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 00:57:16.596 [main] Event - New event is created
+[INFO ] 2016-11-25 00:57:16.597 [main] Opera - New opera is created
+[INFO ] 2016-11-25 00:57:16.598 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 00:57:16.599 [main] Event - New event is created
+[INFO ] 2016-11-25 00:57:16.600 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-25 00:57:16.601 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 00:57:16.633 [main] FileAfishaVisitor - Afisha is wroten in file
+[INFO ] 2016-11-25 00:57:16.634 [main] FileAfishaVisitor - Afisha is wroten in file for certain day
+[INFO ] 2016-11-25 00:57:16.635 [main] FileAfishaVisitor - Afisha is wroten in file for certain period of time
+[INFO ] 2016-11-25 00:57:16.656 [main] ConsoleAfishaVisitor - Afisha is displayed on console
+[INFO ] 2016-11-25 00:57:16.657 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain day
+[INFO ] 2016-11-25 00:57:16.657 [main] ConsoleAfishaVisitor - Afisha is displayed on console for certain period of time
+[INFO ] 2016-11-25 00:59:10.243 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:59:10.261 [main] Event - New event is created
+[INFO ] 2016-11-25 00:59:10.262 [main] Film - New film is created
+[INFO ] 2016-11-25 00:59:48.426 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 00:59:48.437 [main] Event - New event is created
+[INFO ] 2016-11-25 00:59:48.437 [main] Film - New film is created
+[INFO ] 2016-11-25 01:00:27.759 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 01:00:27.767 [main] Event - New event is created
+[INFO ] 2016-11-25 01:00:27.768 [main] Film - New film is created
+[INFO ] 2016-11-25 01:00:58.793 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 01:10:59.602 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 01:10:59.613 [main] Event - New event is created
+[INFO ] 2016-11-25 01:10:59.613 [main] Film - New film is created
+[INFO ] 2016-11-25 01:11:14.549 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 01:13:16.126 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 01:14:08.029 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 01:15:08.318 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 15:45:47.272 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 15:45:47.325 [main] Event - New event is created
+[INFO ] 2016-11-25 15:45:47.326 [main] Film - New film is created
+[INFO ] 2016-11-25 15:45:47.383 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 15:45:47.385 [main] Event - New event is created
+[INFO ] 2016-11-25 15:45:47.386 [main] Opera - New opera is created
+[INFO ] 2016-11-25 15:45:47.407 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 15:45:47.408 [main] Event - New event is created
+[INFO ] 2016-11-25 15:45:47.408 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-25 15:45:47.416 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 15:45:47.416 [main] Event - New event is created
+[INFO ] 2016-11-25 15:45:47.416 [main] Opera - New opera is created
+[INFO ] 2016-11-25 15:45:47.418 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 23:21:38.084 [main] Event - New event is created
+[INFO ] 2016-11-25 23:21:38.124 [main] Film - New film is created
+[INFO ] 2016-11-25 23:25:20.185 [main] Afisha - New afisha is created
+[INFO ] 2016-11-25 23:25:20.211 [main] Event - New event is created
+[INFO ] 2016-11-25 23:25:20.212 [main] Film - New film is created
+[INFO ] 2016-11-25 23:25:20.246 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 23:25:20.248 [main] Event - New event is created
+[INFO ] 2016-11-25 23:25:20.248 [main] Opera - New opera is created
+[INFO ] 2016-11-25 23:25:20.252 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 23:25:20.253 [main] Event - New event is created
+[INFO ] 2016-11-25 23:25:20.254 [main] Exhibition - New exhibition is created
+[INFO ] 2016-11-25 23:25:20.258 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 23:25:20.258 [main] Event - New event is created
+[INFO ] 2016-11-25 23:25:20.260 [main] Opera - New opera is created
+[INFO ] 2016-11-25 23:25:20.272 [main] Afisha - New event is added to afisha 
+[INFO ] 2016-11-25 23:25:49.772 [main] Event - New event is created
+[INFO ] 2016-11-25 23:25:49.780 [main] Film - New film is created
+[INFO ] 2016-11-25 23:26:55.313 [main] Event - New event is created
+[INFO ] 2016-11-25 23:27:10.557 [main] Film - New film is created
+[INFO ] 2016-11-25 23:31:24.251 [main] Event - New event is created
+[INFO ] 2016-11-25 23:31:24.266 [main] Film - New film is created
