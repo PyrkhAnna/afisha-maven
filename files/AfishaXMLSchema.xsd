@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsa:schema xmlns:xsa="http://www.w3.org/2001/XMLSchema" xmlns="http://www.htp.by" 
+targetNamespace="http://www.htp.by" 
+elementFormDefault="qualified">
+	<xsa:element name="afisha" type="afishaType" />
+	<xsa:element name="events" type="eventsType" />
+	<xsa:element name="event" type="eventType" />
+	<xsa:complexType name="afishaType">
+		<xsa:sequence>
+			<xsa:element name="events" type="eventsType" />
+		</xsa:sequence>
+		<xsa:attribute name="city" type="xsa:string" use="required" />
+	</xsa:complexType>
+	<xsa:complexType name="eventsType">
+		<xsa:choice minOccurs="0" maxOccurs="unbounded">
+			<xsa:element name="film" type="eventFilm" maxOccurs="unbounded" />
+			<xsa:element name="opera" type="eventOpera" maxOccurs="unbounded" />
+			<xsa:element name="exhibition" type="eventExhibition" maxOccurs="unbounded" />
+		</xsa:choice>
+	</xsa:complexType>
+	<xsa:complexType name="eventType">
+		<xsa:sequence>
+			<xsa:element name="title" type="xsa:string" />
+			<xsa:element name="date" type="xsa:date" />
+			<xsa:element name="time" type="xsa:time" />
+			<xsa:element name="place" type="xsa:string" />
+			<xsa:element name="cost" type="xsa:double" />
+		</xsa:sequence>
+	</xsa:complexType>
+	<xsa:complexType name="eventFilm">
+		<xsa:complexContent>
+			<xsa:extension base="eventType">
+				<xsa:sequence>
+					<xsa:element name="genre">
+						<xsa:simpleType>
+							<xsa:restriction base="xsa:string">
+								<xsa:enumeration value="drama" />
+								<xsa:enumeration value="horror" />
+								<xsa:enumeration value="comedy" />
+							</xsa:restriction>
+						</xsa:simpleType>
+					</xsa:element>
+					<xsa:element name="rating" type="xsa:double" />
+				</xsa:sequence>
+			</xsa:extension>
+		</xsa:complexContent>
+	</xsa:complexType>
+	<xsa:complexType name="eventOpera">
+		<xsa:complexContent>
+			<xsa:extension base="eventType">
+				<xsa:sequence>
+					<xsa:element name="singer" type="xsa:string" />
+				</xsa:sequence>
+			</xsa:extension>
+		</xsa:complexContent>
+	</xsa:complexType>
+	<xsa:complexType name="eventExhibition">
+		<xsa:complexContent>
+			<xsa:extension base="eventType">
+				<xsa:sequence>
+					<xsa:element name="topic" type="xsa:string" />
+					<xsa:element name="author" type="xsa:string" />
+				</xsa:sequence>
+			</xsa:extension>
+		</xsa:complexContent>
+	</xsa:complexType>
+</xsa:schema>

@@ -1,0 +1,1 @@
+select * from `afisha_anna`.`event` where `time` < "16:00:00";

@@ -1,0 +1,38 @@
+Minsk
+Exhibition Event [title=Animals, date=Sun Sep 18 00:00:00 MSK 2016, time=21:30, place= museum, cost=5.0999999999999996447286321199499070644378662109375][topic=Cat, author=City]
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Minsk
+Exhibition Event [title=Animals, date=Sun Sep 18 00:00:00 MSK 2016, time=21:30, place= museum, cost=5.0999999999999996447286321199499070644378662109375][topic=Cat, author=City]
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Minsk
+Exhibition Event [title=Animals, date=Sun Sep 18 00:00:00 MSK 2016, time=21:30, place= museum, cost=5.0999999999999996447286321199499070644378662109375][topic=Cat, author=City]
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Minsk
+Exhibition Event [title=Animals, date=Sun Sep 18 00:00:00 MSK 2016, time=21:30, place= museum, cost=5.0999999999999996447286321199499070644378662109375][topic=Cat, author=City]
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Minsk
+Exhibition Event [title=Animals, date=Sun Sep 18 00:00:00 MSK 2016, time=21:30, place= museum, cost=5.0999999999999996447286321199499070644378662109375][topic=Cat, author=City]
+Opera Event [title=Madam Butterfly, date=Mon Oct 17 00:00:00 MSK 2016, time=19:30, place=Big Opera Theatre, cost=10.050000000000000710542735760100185871124267578125][singer=Singer [name=Pupkin]]
+Film Event [title=White shark, date=Sat Nov 19 00:00:00 MSK 2016, time=18:30, place=cinema, cost=23.050000000000000710542735760100185871124267578125][genre=HORROR, rating=8.5]
+Minsk
+Minsk

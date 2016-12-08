@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<afisha city="Minsk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.htp.by"
+xsi:schemaLocation="http://www.htp.by AfishaXMLSchema3.xsd">
+	<events>
+		<film>
+			<title>Film1</title>
+			<date>2016-11-19</date>
+			<time>21:00:00</time>
+			<place>Belarus</place>
+			<cost>15.49</cost>
+			<genre>drama</genre>
+			<rating>7.5</rating>
+		</film>
+		<opera>
+			<title>Opera1</title>
+			<date>2016-11-20</date>
+			<time>19:00:00</time>
+			<place>Bolshoi</place>
+			<cost>200</cost>
+			<singer>Singer1</singer>
+		</opera>
+		<exsibition>
+			<title>Exibision1</title>
+			<date>2016-11-23</date>
+			<time>18:00:00</time>
+			<place>Manezh</place>
+			<cost>10</cost>
+			<theme>Animals</theme>
+			<author>SomeAuthor</author>
+		</exsibition>
+	</events>
+</afisha>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<afisha city="Minsk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://www.htp.by"
+	xsi:schemaLocation="http://www.htp.by AfishaXMLSchema.xsd">
+	<events>
+		<film>
+			<title>White shark</title>
+			<date>2016-11-19</date>
+			<time>12:45:00</time>
+			<place>cinema</place>
+			<cost>10.23</cost>
+			<genre>horror</genre>
+			<rating>9.4</rating>
+		</film>
+		<opera>
+			<title>Madam Butterfly</title>
+			<date>2016-09-19</date>
+			<time>12:45:00</time>
+			<place>opera</place>
+			<cost>15.23</cost>
+			<singer>Pupkin</singer>
+		</opera>
+		<exhibition>
+			<title>Animals</title>
+			<date>2016-10-13</date>
+			<time>18:45:00</time>
+			<place>building</place>
+			<cost>5.23</cost>
+			<topic>cats</topic>
+			<author>city</author>			
+		</exhibition>
+		<opera>
+			<title>Madam Butterfly</title>
+			<date>2016-09-19</date>
+			<time>12:45:00</time>
+			<place>opera</place>
+			<cost>15.23</cost>
+			<singer>Pupkin</singer>
+		</opera>
+	</events>
+</afisha>
+
